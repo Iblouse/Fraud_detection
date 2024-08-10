@@ -4,7 +4,7 @@ from mlflow_utils import log_model_with_mlflow
 from sklearn.model_selection import train_test_split
 
 # Load and preprocess data
-file_path = "fraud_data.csv"
+file_path = "~/Documents/Fraud_Detection/data/fraud_data.csv"
 
 # Load the dataset from a CSV file
 data = load_data(file_path)
