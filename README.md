@@ -84,7 +84,7 @@ To run the Streamlit app for fraud detection:
 
 3. **Run the Streamlit app:**
    ```bash
-   streamlit run MLOps/app.py
+   streamlit run MLOps/fraud_app.py
    ```
 
 4. **Upload a CSV file** in the Streamlit interface to get predictions for fraudulent transactions.
@@ -103,10 +103,10 @@ Fraud_detection/
 │   ├── model_training.py          # Contains functions for training and evaluating models
 │   ├── mlflow_utils.py            # Contains functions for logging models and metrics with MLflow
 │   ├── main.py                    # Main script to train the model and log to MLflow
-│   ├── app.py                     # Streamlit app for fraud detection
+│   ├── fraud_app.py                     # Streamlit app for fraud detection
 │   └── model_uri.txt              # File to store the URI of the best model
 │
-├── fraud_detection.ipynb          # Jupyter notebook for EDA and model development
+├── modelfraud.ipynb          # Jupyter notebook for EDA and model development
 ├── requirements.txt               # Required Python packages
 └── README.md                      # This file
 ```
