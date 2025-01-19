@@ -1,0 +1,296 @@
+category,amt,gender,city_pop,day_of_week,time_of_day,region,season,age_group
+grocery_pos,141.42,M,2317,Tuesday,early morning,South,Spring,51-65
+home,78.84,F,67082,Tuesday,evening,South,Spring,51-65
+misc_pos,3.42,M,55345,Saturday,late night,South,Winter,66-plus
+grocery_net,92.65,M,7163,Saturday,late morning,South,Winter,36-50
+misc_pos,3.21,F,765,Monday,night,Midwest,Summer,36-50
+shopping_pos,6.47,F,1925,Sunday,early morning,South,Spring,51-65
+health_fitness,4.78,F,2906700,Monday,early afternoon,South,Summer,19-35
+shopping_net,3.25,F,6841,Thursday,early afternoon,South,Summer,19-35
+shopping_net,102.26,M,1532,Saturday,early morning,Midwest,Spring,36-50
+food_dining,189.89,F,5438,Saturday,late morning,Northeast,Fall,51-65
+travel,5.97,F,91,Monday,evening,Midwest,Summer,51-65
+kids_pets,28.96,M,463,Wednesday,evening,Midwest,Summer,66-plus
+shopping_pos,6.06,M,5196,Monday,evening,Midwest,Winter,36-50
+kids_pets,64.21,F,78968,Saturday,night,Midwest,Winter,51-65
+personal_care,52.17,M,140,Friday,early afternoon,Midwest,Spring,66-plus
+misc_pos,5.49,F,69,Saturday,night,Northeast,Winter,19-35
+shopping_pos,118.83,M,2092,Wednesday,early morning,Midwest,Summer,51-65
+gas_transport,64.11,M,9034,Wednesday,late night,South,Winter,36-50
+personal_care,83.31,M,964,Thursday,night,Midwest,Spring,36-50
+misc_net,7.08,M,1165,Wednesday,late night,South,Summer,66-plus
+home,76.44,M,1360,Monday,night,Midwest,Summer,19-35
+misc_net,20.47,F,4090,Friday,late morning,South,Spring,36-50
+home,80.09,M,1126,Sunday,early afternoon,Midwest,Summer,36-50
+travel,1.06,M,732,Friday,evening,Midwest,Summer,51-65
+shopping_pos,7.28,F,1304,Saturday,early morning,Northeast,Winter,36-50
+home,9.58,F,46,Saturday,night,West,Fall,19-35
+grocery_net,45.14,M,23727,Monday,early morning,Midwest,Winter,36-50
+health_fitness,39.61,M,899,Monday,early afternoon,West,Spring,51-65
+misc_pos,5.71,M,3224,Friday,early afternoon,Northeast,Fall,19-35
+gas_transport,54.06,F,1925,Saturday,late night,South,Spring,51-65
+food_dining,64.3,M,1263321,Tuesday,late night,South,Spring,66-plus
+shopping_net,7.68,M,19408,Sunday,evening,West,Spring,19-35
+health_fitness,104.27,F,1563,Sunday,night,South,Fall,36-50
+gas_transport,71.79,M,126,Thursday,late morning,West,Summer,19-35
+entertainment,114.13,M,23045,Friday,early morning,Northeast,Fall,51-65
+grocery_pos,114.53,F,2328,Sunday,late night,Midwest,Fall,66-plus
+kids_pets,48.79,M,2457,Saturday,evening,South,Spring,36-50
+grocery_pos,110.88,M,2097,Thursday,late morning,Midwest,Winter,19-35
+grocery_pos,219.93,F,84106,Friday,late morning,West,Spring,36-50
+gas_transport,79.4,F,2872,Wednesday,late night,West,Winter,19-35
+gas_transport,57.71,F,215,Monday,late night,Midwest,Spring,51-65
+kids_pets,5.07,M,564,Friday,late afternoon,South,Spring,19-35
+grocery_pos,85.63,M,75830,Tuesday,early morning,Midwest,Spring,36-50
+kids_pets,11.2,M,95035,Sunday,late afternoon,South,Spring,19-35
+food_dining,69.86,F,391389,Sunday,evening,South,Spring,19-35
+shopping_pos,84.7,F,2303,Tuesday,late afternoon,Northeast,Spring,19-35
+misc_net,134.87,M,14742,Sunday,early morning,South,Summer,19-35
+shopping_pos,6.57,F,1766,Wednesday,night,South,Winter,36-50
+grocery_pos,169.93,F,3104,Friday,late night,Midwest,Spring,36-50
+entertainment,155.83,F,2526,Friday,early afternoon,South,Summer,36-50
+misc_pos,28.9,F,18128,Saturday,late morning,South,Summer,19-35
+home,8.97,F,1312922,Sunday,early afternoon,West,Spring,19-35
+shopping_pos,162.02,M,564,Monday,early afternoon,South,Winter,19-35
+health_fitness,68.74,M,67858,Sunday,evening,Midwest,Fall,19-35
+personal_care,94.92,M,20328,Tuesday,early afternoon,South,Spring,19-35
+kids_pets,11.94,F,5778,Saturday,night,South,Winter,66-plus
+misc_pos,6.4,M,409656,Wednesday,night,Midwest,Winter,19-35
+personal_care,9.66,M,28739,Sunday,early afternoon,South,Winter,19-35
+grocery_net,45.02,M,2304,Thursday,early morning,Midwest,Spring,51-65
+grocery_pos,106.77,M,269,Thursday,late morning,Midwest,Winter,51-65
+kids_pets,19.12,F,21134,Monday,evening,South,Fall,19-35
+grocery_pos,72.22,F,6841,Monday,late afternoon,South,Spring,19-35
+gas_transport,85.29,F,2368,Thursday,early morning,Midwest,Spring,19-35
+food_dining,50.12,M,341043,Monday,evening,South,Spring,19-35
+gas_transport,49.34,F,1493,Monday,early morning,South,Winter,19-35
+travel,6.57,M,145,Friday,early afternoon,West,Fall,66-plus
+kids_pets,22.73,F,1533,Tuesday,early afternoon,Northeast,Spring,66-plus
+food_dining,14.66,F,1523,Tuesday,evening,South,Summer,19-35
+travel,7.41,F,36784,Monday,night,Midwest,Spring,66-plus
+kids_pets,3.93,M,276002,Friday,early afternoon,South,Spring,36-50
+grocery_pos,100.14,F,302,Wednesday,late night,South,Summer,36-50
+grocery_pos,137.17,M,804,Monday,late night,Northeast,Fall,51-65
+entertainment,72.31,M,964,Monday,night,Midwest,Winter,36-50
+food_dining,1.54,F,167,Friday,night,South,Winter,19-35
+travel,1.66,M,258,Thursday,early afternoon,South,Summer,66-plus
+gas_transport,77.3,M,6006,Monday,early morning,South,Spring,19-35
+gas_transport,74.87,M,1263321,Thursday,late night,South,Fall,66-plus
+grocery_pos,126.51,F,602,Saturday,late night,Midwest,Summer,51-65
+misc_net,255.56,F,540,Saturday,late morning,South,Summer,36-50
+misc_pos,62.92,F,10076,Monday,late morning,South,Spring,36-50
+misc_net,42.32,M,75830,Sunday,late morning,Midwest,Fall,36-50
+food_dining,13.81,M,3279,Wednesday,early afternoon,Northeast,Spring,36-50
+kids_pets,177.52,F,765,Saturday,night,Midwest,Summer,36-50
+misc_pos,40.21,M,1360,Thursday,early morning,Midwest,Summer,19-35
+shopping_net,6.73,M,47249,Monday,night,Northeast,Spring,36-50
+gas_transport,50.15,F,343,Thursday,early morning,Midwest,Fall,36-50
+misc_pos,31.84,M,645,Monday,late night,Northeast,Winter,36-50
+misc_pos,34.99,F,53,Thursday,night,Midwest,Spring,36-50
+shopping_pos,1.24,F,2206,Tuesday,late afternoon,South,Spring,19-35
+gas_transport,83.97,M,75830,Sunday,late night,Midwest,Winter,36-50
+home,62.43,M,8269,Thursday,night,South,Summer,36-50
+personal_care,54.36,F,63,Wednesday,evening,Midwest,Spring,36-50
+home,85.8,F,3289,Wednesday,early afternoon,South,Spring,66-plus
+travel,2.49,M,258,Sunday,night,South,Summer,66-plus
+health_fitness,77.12,M,1446,Saturday,evening,West,Fall,36-50
+gas_transport,68.02,M,18182,Friday,early morning,West,Spring,36-50
+shopping_pos,5.68,M,7987,Saturday,late night,Northeast,Winter,51-65
+home,74.7,M,477,Friday,night,Northeast,Winter,19-35
+travel,9.86,M,134056,Saturday,evening,Midwest,Summer,51-65
+grocery_net,23.61,M,7692,Monday,late morning,Midwest,Spring,19-35
+misc_pos,135.87,F,606,Saturday,early afternoon,Northeast,Summer,19-35
+personal_care,78.66,M,824,Monday,late afternoon,Northeast,Spring,36-50
+grocery_net,47.17,M,1241364,Sunday,early morning,West,Winter,19-35
+shopping_pos,16.63,F,863,Tuesday,evening,South,Winter,36-50
+shopping_net,106.81,M,198,Friday,early morning,Northeast,Spring,36-50
+shopping_net,7.29,M,198,Thursday,late night,West,Spring,51-65
+food_dining,57.97,M,341,Sunday,night,Midwest,Summer,36-50
+grocery_pos,108.69,F,1789,Sunday,early morning,Midwest,Spring,36-50
+shopping_pos,6.0,M,25459,Wednesday,late night,South,Fall,36-50
+misc_pos,4.89,F,1563,Monday,evening,South,Winter,36-50
+kids_pets,10.72,F,6469,Monday,late afternoon,Midwest,Summer,36-50
+kids_pets,58.03,M,519,Tuesday,late afternoon,Midwest,Summer,51-65
+personal_care,14.05,F,1423,Monday,late afternoon,Midwest,Summer,19-35
+misc_pos,8.67,F,718,Friday,night,South,Summer,19-35
+health_fitness,20.96,F,391389,Wednesday,night,South,Spring,19-35
+grocery_net,51.38,M,4306,Tuesday,late morning,Midwest,Spring,19-35
+misc_pos,514.02,M,3032,Tuesday,early morning,Midwest,Winter,51-65
+misc_pos,399.65,M,18408,Monday,night,West,Summer,36-50
+home,92.29,M,1078,Thursday,evening,South,Spring,19-35
+food_dining,121.13,F,522,Friday,late afternoon,South,Spring,66-plus
+shopping_net,3.64,F,635,Wednesday,early afternoon,West,Summer,36-50
+kids_pets,79.08,F,1923,Sunday,evening,South,Spring,51-65
+kids_pets,62.67,M,3776,Wednesday,late afternoon,South,Fall,36-50
+home,87.88,M,49,Wednesday,night,West,Fall,36-50
+grocery_pos,116.85,F,1078,Wednesday,late morning,South,Winter,66-plus
+misc_pos,2.56,F,6581,Monday,late night,South,Summer,51-65
+shopping_net,114.7,F,21134,Tuesday,early afternoon,South,Summer,19-35
+shopping_pos,4.43,M,370,Monday,late night,Northeast,Spring,51-65
+misc_net,73.13,M,1078,Wednesday,early morning,South,Spring,19-35
+shopping_net,90.35,F,27971,Wednesday,early afternoon,West,Winter,19-35
+shopping_net,8.88,F,2456,Sunday,night,Northeast,Fall,19-35
+grocery_pos,183.18,F,50835,Wednesday,late night,South,Summer,19-35
+health_fitness,18.69,M,18408,Sunday,late afternoon,West,Winter,36-50
+home,14.03,F,378909,Thursday,early afternoon,South,Spring,36-50
+shopping_pos,1.37,F,1643,Sunday,early afternoon,Northeast,Summer,36-50
+kids_pets,3.52,F,222,Monday,late afternoon,South,Winter,51-65
+shopping_net,9.63,F,42384,Sunday,night,West,Spring,19-35
+food_dining,62.53,F,7646,Tuesday,night,Midwest,Spring,19-35
+misc_net,77.92,F,106,Friday,late night,South,Spring,36-50
+shopping_pos,161.97,M,111,Saturday,late afternoon,South,Fall,19-35
+shopping_pos,1.43,M,626,Saturday,late night,South,Spring,51-65
+misc_pos,4.44,M,4172,Tuesday,early morning,Northeast,Summer,51-65
+grocery_pos,107.35,F,3508,Friday,late night,Midwest,Winter,66-plus
+home,128.38,M,8512,Monday,evening,South,Winter,66-plus
+shopping_pos,1071.05,F,9521,Monday,early afternoon,South,Fall,36-50
+health_fitness,96.68,F,184,Sunday,early afternoon,Northeast,Summer,66-plus
+grocery_pos,118.57,F,190,Sunday,late night,Northeast,Winter,36-50
+travel,3.46,F,13717,Wednesday,night,South,Fall,66-plus
+shopping_net,46.09,F,1766,Sunday,early afternoon,South,Winter,36-50
+entertainment,63.8,M,632,Thursday,late afternoon,Northeast,Fall,19-35
+health_fitness,16.49,F,46563,Sunday,early afternoon,South,Spring,36-50
+home,99.72,F,1686,Monday,late afternoon,South,Summer,19-35
+misc_net,3.68,F,1252,Tuesday,late night,West,Spring,66-plus
+personal_care,64.39,F,46563,Saturday,early afternoon,South,Winter,36-50
+kids_pets,44.31,F,641349,Tuesday,evening,West,Spring,36-50
+gas_transport,68.69,M,595,Friday,early morning,South,Summer,36-50
+food_dining,76.87,F,3699,Friday,early afternoon,South,Summer,66-plus
+shopping_pos,23.99,F,36438,Sunday,night,South,Summer,19-35
+personal_care,21.03,M,4653,Monday,evening,Northeast,Spring,19-35
+misc_pos,8.79,F,1925,Sunday,early morning,West,Summer,66-plus
+health_fitness,86.14,F,18128,Monday,night,South,Summer,19-35
+misc_net,211.16,F,7565,Tuesday,late night,Northeast,Winter,66-plus
+misc_pos,401.37,M,31515,Wednesday,evening,Midwest,Fall,36-50
+kids_pets,52.55,F,50489,Monday,early afternoon,West,Spring,19-35
+gas_transport,54.12,F,606,Tuesday,late night,West,Fall,19-35
+entertainment,173.15,M,3996,Friday,night,South,Winter,36-50
+misc_pos,40.13,M,965,Tuesday,late morning,Midwest,Spring,36-50
+food_dining,2.84,F,743,Tuesday,night,West,Winter,36-50
+grocery_pos,121.14,F,551,Monday,early morning,South,Spring,36-50
+grocery_pos,67.08,F,106,Sunday,early morning,South,Summer,19-35
+home,40.47,F,21134,Friday,early afternoon,South,Fall,19-35
+misc_net,2.1,F,217,Saturday,late night,South,Winter,19-35
+grocery_pos,110.49,F,602,Monday,early morning,Midwest,Spring,51-65
+misc_net,57.52,F,26551,Thursday,late night,South,Summer,36-50
+shopping_net,134.31,F,6120,Wednesday,late afternoon,Northeast,Fall,36-50
+personal_care,10.23,M,206,Sunday,evening,Midwest,Fall,51-65
+home,98.19,F,754,Wednesday,late afternoon,Midwest,Winter,51-65
+shopping_net,7.58,M,129,Saturday,late night,West,Winter,51-65
+entertainment,145.19,F,5895,Friday,night,Northeast,Fall,36-50
+misc_pos,175.8,F,1943,Tuesday,early afternoon,Midwest,Spring,36-50
+kids_pets,20.35,F,27971,Tuesday,early afternoon,West,Spring,19-35
+grocery_pos,104.58,M,1453,Wednesday,late night,Northeast,Fall,36-50
+health_fitness,3.52,F,1725,Friday,night,West,Summer,51-65
+food_dining,22.7,F,104,Monday,night,West,Fall,19-35
+grocery_net,46.54,M,14742,Saturday,early morning,South,Spring,19-35
+personal_care,5.96,F,1383,Saturday,night,South,Summer,19-35
+home,9.51,F,1324,Saturday,night,South,Summer,66-plus
+food_dining,70.28,F,5760,Monday,late afternoon,Midwest,Spring,36-50
+home,149.81,F,5760,Thursday,night,Midwest,Fall,36-50
+home,75.52,F,922,Sunday,early afternoon,Northeast,Winter,36-50
+entertainment,57.77,F,1089,Saturday,late afternoon,South,Spring,36-50
+misc_net,7.54,F,2206,Friday,early afternoon,South,Summer,19-35
+gas_transport,50.65,F,31394,Friday,early morning,Midwest,Summer,19-35
+kids_pets,3.66,F,581,Monday,night,South,Fall,51-65
+misc_pos,780.37,F,1791,Tuesday,early morning,South,Spring,51-65
+gas_transport,67.39,M,1312,Wednesday,late morning,South,Summer,51-65
+shopping_net,6.23,M,276896,Monday,night,West,Spring,19-35
+home,4.01,M,24840,Monday,night,Midwest,Winter,51-65
+grocery_pos,185.37,F,3684,Wednesday,late night,West,Winter,36-50
+grocery_pos,84.76,M,1442,Sunday,late night,Midwest,Winter,36-50
+grocery_pos,176.7,F,59744,Thursday,early morning,South,Summer,19-35
+shopping_pos,124.57,M,53,Friday,evening,South,Spring,19-35
+health_fitness,63.5,F,466,Tuesday,late afternoon,South,Winter,51-65
+grocery_net,46.78,M,86954,Friday,late morning,Midwest,Fall,19-35
+home,40.69,M,4778,Sunday,evening,Northeast,Winter,66-plus
+kids_pets,24.21,F,1288,Friday,early afternoon,West,Summer,66-plus
+gas_transport,43.46,M,798,Friday,late morning,South,Summer,66-plus
+kids_pets,52.74,M,1988,Sunday,night,Northeast,Fall,36-50
+kids_pets,56.28,M,277,Sunday,early afternoon,Northeast,Fall,36-50
+shopping_net,2.79,F,378909,Wednesday,early afternoon,South,Fall,36-50
+personal_care,23.94,F,2435,Friday,evening,South,Spring,51-65
+travel,5.14,F,647,Saturday,evening,Northeast,Fall,19-35
+grocery_net,49.3,F,1645,Saturday,late night,West,Summer,19-35
+grocery_net,26.45,M,4653,Tuesday,late night,Northeast,Spring,19-35
+health_fitness,30.11,M,153,Monday,evening,Midwest,Spring,51-65
+home,32.11,F,718,Friday,night,South,Fall,19-35
+grocery_pos,114.49,F,454,Tuesday,late night,Midwest,Winter,36-50
+shopping_pos,109.58,M,776,Thursday,early morning,South,Winter,66-plus
+grocery_pos,229.28,F,107941,Sunday,late morning,West,Spring,19-35
+kids_pets,24.33,F,647,Monday,early afternoon,Northeast,Summer,19-35
+travel,5.3,F,92985,Monday,early afternoon,Midwest,Summer,51-65
+kids_pets,44.28,M,1126,Tuesday,night,Midwest,Spring,36-50
+grocery_pos,188.77,F,6469,Monday,late night,Midwest,Summer,36-50
+travel,1.79,F,50489,Saturday,early afternoon,West,Winter,19-35
+home,30.72,F,270712,Sunday,early afternoon,South,Fall,36-50
+grocery_pos,79.68,M,493806,Saturday,late night,South,Spring,36-50
+kids_pets,8.68,F,4198,Friday,early afternoon,South,Fall,19-35
+misc_pos,41.93,M,99,Tuesday,late morning,South,Winter,19-35
+gas_transport,65.97,M,233060,Wednesday,late morning,South,Summer,36-50
+grocery_pos,33.08,M,3688,Tuesday,early morning,Northeast,Winter,36-50
+health_fitness,47.61,F,61,Tuesday,late afternoon,West,Summer,66-plus
+entertainment,21.11,M,134056,Sunday,early afternoon,Midwest,Fall,36-50
+kids_pets,31.94,M,31515,Monday,night,Midwest,Spring,36-50
+shopping_net,281.64,F,186140,Tuesday,late afternoon,South,Summer,36-50
+kids_pets,111.73,F,78968,Tuesday,early afternoon,Midwest,Spring,51-65
+gas_transport,64.7,F,313,Tuesday,late morning,South,Winter,36-50
+shopping_net,1075.51,F,533,Friday,late morning,Midwest,Winter,19-35
+entertainment,73.99,F,5875,Monday,night,South,Summer,19-35
+shopping_pos,7.82,M,5657,Saturday,late afternoon,South,Spring,19-35
+shopping_net,4.05,F,1606,Monday,late night,Northeast,Winter,51-65
+food_dining,22.75,F,378909,Monday,night,South,Summer,36-50
+personal_care,95.21,F,1760,Tuesday,early afternoon,South,Spring,36-50
+shopping_pos,9.52,M,817312,Friday,late afternoon,Midwest,Spring,Under-18
+gas_transport,35.35,F,922,Saturday,late night,Northeast,Winter,36-50
+misc_pos,13.15,F,718,Tuesday,late afternoon,South,Summer,19-35
+health_fitness,94.61,F,736284,Monday,evening,South,Spring,51-65
+shopping_net,98.34,M,1261,Thursday,late night,South,Fall,36-50
+grocery_pos,210.53,F,3343,Sunday,late night,South,Spring,19-35
+grocery_net,76.43,F,1526206,Saturday,late night,Northeast,Winter,19-35
+gas_transport,48.3,M,116001,Monday,early morning,South,Spring,19-35
+shopping_pos,1.62,F,84106,Sunday,late afternoon,West,Spring,36-50
+health_fitness,215.39,F,1675,Tuesday,early afternoon,South,Fall,19-35
+food_dining,2.58,F,230,Thursday,late afternoon,South,Spring,19-35
+shopping_pos,1.32,F,61,Thursday,late morning,West,Fall,66-plus
+grocery_pos,82.49,M,254282,Saturday,late night,South,Fall,66-plus
+shopping_net,3.82,M,663,Tuesday,late night,South,Winter,36-50
+shopping_net,10.72,F,4575,Thursday,early afternoon,South,Spring,19-35
+gas_transport,74.69,M,695,Monday,late night,Midwest,Spring,66-plus
+kids_pets,88.56,M,207410,Tuesday,evening,South,Fall,19-35
+shopping_net,3.54,F,2383912,Saturday,late night,West,Winter,51-65
+food_dining,104.6,F,118,Tuesday,early afternoon,Midwest,Winter,51-65
+shopping_pos,4.06,M,86954,Wednesday,early afternoon,Midwest,Spring,19-35
+travel,9.5,M,1758,Sunday,early afternoon,South,Fall,51-65
+grocery_net,43.64,M,1446,Tuesday,late night,West,Fall,36-50
+home,38.29,F,2135,Thursday,early afternoon,Midwest,Winter,Under-18
+health_fitness,16.22,M,1426,Tuesday,early afternoon,Midwest,Summer,51-65
+gas_transport,70.31,M,46944,Sunday,late morning,South,Spring,66-plus
+home,45.63,M,14075,Sunday,evening,South,Winter,66-plus
+kids_pets,15.97,M,1063,Saturday,night,Midwest,Spring,66-plus
+misc_pos,7.11,F,1970,Saturday,evening,South,Spring,19-35
+grocery_pos,88.31,M,1080,Monday,late morning,Midwest,Spring,36-50
+misc_pos,2.67,F,647,Monday,late afternoon,Northeast,Winter,19-35
+home,28.9,F,824,Monday,late afternoon,Northeast,Fall,19-35
+entertainment,77.26,F,165556,Sunday,early afternoon,South,Summer,19-35
+misc_net,35.79,F,269,Monday,late night,Midwest,Spring,51-65
+shopping_net,5.96,M,564,Saturday,early afternoon,South,Spring,19-35
+food_dining,89.01,F,2906700,Monday,night,South,Summer,19-35
+travel,1960.29,M,3776,Monday,late afternoon,South,Spring,36-50
+food_dining,61.87,M,1360,Saturday,early afternoon,Midwest,Spring,19-35
+misc_pos,134.82,F,26551,Tuesday,early morning,South,Winter,36-50
+misc_net,96.61,M,2135,Friday,late morning,Midwest,Spring,51-65
+home,57.53,F,5621,Monday,night,South,Summer,36-50
+gas_transport,79.28,F,14871,Sunday,late night,West,Summer,36-50
+health_fitness,48.04,F,59744,Sunday,early afternoon,South,Summer,19-35
+personal_care,4.55,F,1679,Monday,night,South,Winter,19-35
+misc_pos,6.73,F,73,Monday,late night,Midwest,Winter,66-plus
+grocery_pos,158.17,F,522,Sunday,late night,South,Winter,66-plus
+home,343.33,F,104,Monday,evening,West,Summer,19-35
+home,119.8,F,105638,Friday,evening,South,Spring,19-35
+home,23.15,F,969,Monday,night,South,Winter,66-plus
+grocery_net,18.05,F,230,Saturday,late night,South,Spring,19-35
+misc_net,7.24,M,76383,Tuesday,late morning,Northeast,Spring,19-35
+personal_care,10.73,F,878,Monday,early afternoon,Midwest,Winter,36-50
+shopping_pos,61.42,F,18459,Friday,early morning,Northeast,Spring,66-plus
+gas_transport,61.41,M,74,Monday,late night,South,Fall,66-plus
