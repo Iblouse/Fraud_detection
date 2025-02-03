@@ -2,23 +2,24 @@ import streamlit as st
 import pandas as pd
 import mlflow
 import mlflow.sklearn
-
-# def load_model():
-#     """
-#     Load a trained model from a URI specified in a text file.
-
-#     The URI is read from the 'model_uri.txt' file, and the model is loaded using 
-#     MLflow's sklearn module.
-
-#     Returns:
-#         model: The loaded machine learning model.
-#     """
-#     with open('model_uri.txt', 'r') as file:
-#         model_uri = file.read().strip()
-#     return mlflow.sklearn.load_model(model_uri)
+import os
 
 def load_model():
-    model_uri = "runs:/c0d2e266d07945819b98e5a00161980d/model"
+    """
+    Load a trained model from MLflow. Handles both local and cloud environments.
+
+    Returns:
+        model: The loaded machine learning model.
+    """
+    # Check if running locally or on Streamlit Cloud
+    if os.getenv('STREAMLIT_ENV') == 'cloud':
+        # Use the MLflow 'runs:' URI for cloud deployment
+        model_uri = "runs:/c0d2e266d07945819b98e5a00161980d/model"
+    else:
+        # Use the full local path to the model for local testing
+        model_uri = "file:///Users/ibrahimabarry/Documents/Fraud_detection/MLOps/mlruns/212254493020907020/c0d2e266d07945819b98e5a00161980d/artifacts/model"
+
+    # Load the model from MLflow
     model = mlflow.sklearn.load_model(model_uri)
     return model
 
