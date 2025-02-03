@@ -3,19 +3,24 @@ import pandas as pd
 import mlflow
 import mlflow.sklearn
 
+# def load_model():
+#     """
+#     Load a trained model from a URI specified in a text file.
+
+#     The URI is read from the 'model_uri.txt' file, and the model is loaded using 
+#     MLflow's sklearn module.
+
+#     Returns:
+#         model: The loaded machine learning model.
+#     """
+#     with open('model_uri.txt', 'r') as file:
+#         model_uri = file.read().strip()
+#     return mlflow.sklearn.load_model(model_uri)
+
 def load_model():
-    """
-    Load a trained model from a URI specified in a text file.
-
-    The URI is read from the 'model_uri.txt' file, and the model is loaded using 
-    MLflow's sklearn module.
-
-    Returns:
-        model: The loaded machine learning model.
-    """
-    with open('model_uri.txt', 'r') as file:
-        model_uri = file.read().strip()
-    return mlflow.sklearn.load_model(model_uri)
+    model_uri = "runs:/c0d2e266d07945819b98e5a00161980d/model"
+    model = mlflow.sklearn.load_model(model_uri)
+    return model
 
 def predict_fraud(model, data):
     """
