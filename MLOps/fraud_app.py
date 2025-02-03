@@ -13,8 +13,11 @@ def load_model():
     Returns:
         model: The loaded machine learning model.
     """
-    with open('model_uri.txt', 'r') as file:
-        model_uri = file.read().strip()
+    model_uri = mlflow.get_artifact_uri("model")
+    with open("model_uri.txt", "w") as f:
+        f.write(model_uri)
+    # with open('model_uri.txt', 'r') as file:
+    #     model_uri = file.read().strip()
     return mlflow.sklearn.load_model(model_uri)
 
 def predict_fraud(model, data):
@@ -40,7 +43,7 @@ model = load_model()
 
 # Section to upload a CSV file for making predictions
 st.header("Upload a CSV File")
-uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
+uploaded_file = st.file_uploader("Choose a CSV file (You can use sample data at https://github.com/Iblouse/Fraud_detection/tree/main/data)", type="csv")
 
 if uploaded_file is not None:
     # Read the uploaded CSV file into a DataFrame
