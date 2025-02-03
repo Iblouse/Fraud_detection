@@ -13,11 +13,8 @@ def load_model():
     Returns:
         model: The loaded machine learning model.
     """
-    model_uri = mlflow.get_artifact_uri("model")
-    with open("model_uri.txt", "w") as f:
-        f.write(model_uri)
-    # with open('model_uri.txt', 'r') as file:
-    #     model_uri = file.read().strip()
+    with open('model_uri.txt', 'r') as file:
+        model_uri = file.read().strip()
     return mlflow.sklearn.load_model(model_uri)
 
 def predict_fraud(model, data):

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ibrahimabarry/Documents/Fraud_detection/MLOps/mlruns/212254493020907020/52118f8ba11d4e1884b8d3fb76aec8c2/artifacts
+end_time: 1723157339037
+entry_point_name: ''
+experiment_id: '212254493020907020'
+lifecycle_stage: active
+run_id: 52118f8ba11d4e1884b8d3fb76aec8c2
+run_name: unleashed-goat-835
+run_uuid: 52118f8ba11d4e1884b8d3fb76aec8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723157336227
+status: 3
+tags: []
+user_id: ibrahimabarry

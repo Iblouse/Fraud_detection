@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ibrahimabarry/Documents/Fraud_detection/MLOps/mlruns/212254493020907020/facc6559202e49b4a7b546784fe492ac/artifacts
+end_time: 1723211318612
+entry_point_name: ''
+experiment_id: '212254493020907020'
+lifecycle_stage: active
+run_id: facc6559202e49b4a7b546784fe492ac
+run_name: awesome-lamb-864
+run_uuid: facc6559202e49b4a7b546784fe492ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723211315530
+status: 3
+tags: []
+user_id: ibrahimabarry

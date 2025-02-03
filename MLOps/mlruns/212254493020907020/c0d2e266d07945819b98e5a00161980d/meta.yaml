@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ibrahimabarry/Documents/Fraud_detection/MLOps/mlruns/212254493020907020/c0d2e266d07945819b98e5a00161980d/artifacts
+end_time: 1738597543986
+entry_point_name: ''
+experiment_id: '212254493020907020'
+lifecycle_stage: active
+run_id: c0d2e266d07945819b98e5a00161980d
+run_name: wise-asp-200
+run_uuid: c0d2e266d07945819b98e5a00161980d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738597540819
+status: 3
+tags: []
+user_id: ibrahimabarry

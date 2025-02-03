@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ibrahimabarry/Documents/Fraud_detection/MLOps/mlruns/212254493020907020/4fbdcbe74000422b986b6773e1950610/artifacts
+end_time: 1723299150396
+entry_point_name: ''
+experiment_id: '212254493020907020'
+lifecycle_stage: active
+run_id: 4fbdcbe74000422b986b6773e1950610
+run_name: abundant-toad-851
+run_uuid: 4fbdcbe74000422b986b6773e1950610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723299147277
+status: 3
+tags: []
+user_id: ibrahimabarry
