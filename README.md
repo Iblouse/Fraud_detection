@@ -1,3 +1,5 @@
+![Distribution of data](https://github.com/Iblouse/Fraud_detection/blob/main/FraudTr.png)
+
 # Fraud Detection
 
 ## Project Description and Overview
