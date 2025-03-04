@@ -1,6 +1,6 @@
-![Distribution of data](https://github.com/Iblouse/Fraud_detection/blob/main/FraudTr.png)
-
 # Fraud Detection
+
+![Distribution of data](https://github.com/Iblouse/Fraud_detection/blob/main/FraudTr.png)
 
 ## Project Description and Overview
 
